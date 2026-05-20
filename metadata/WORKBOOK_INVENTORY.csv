@@ -1,0 +1,15 @@
+workbook,sheet,rows,columns,status,converted_csv
+data/original/census/AgeMix.xls,Sheet1,32,7,converted,data/modernized/census/AgeMix_Sheet1.csv
+data/original/census/AgeMix.xls,Sheet2,0,0,empty,
+data/original/census/AgeMix.xls,Sheet3,0,0,empty,
+data/original/census/Race.xls,Race.txt,40,12,converted,data/modernized/census/Race_Race_txt.csv
+data/original/housing/Apartments.xls,Sheet1,85,10,converted,data/modernized/housing/Apartments_Sheet1.csv
+data/original/housing/Apartments.xls,Sheet2,0,0,empty,
+data/original/housing/Apartments.xls,Sheet3,0,0,empty,
+data/original/schools/HowCoSchooldatabase.xls,ES-Regress,18,9,converted,data/modernized/schools/HowCoSchooldatabase_ES-Regress.csv
+data/original/schools/HowCoSchooldatabase.xls,ES-Corr,22,22,converted,data/modernized/schools/HowCoSchooldatabase_ES-Corr.csv
+data/original/schools/HowCoSchooldatabase.xls,MS-Corr,21,21,converted,data/modernized/schools/HowCoSchooldatabase_MS-Corr.csv
+data/original/schools/HowCoSchooldatabase.xls,HS-Corr,19,19,converted,data/modernized/schools/HowCoSchooldatabase_HS-Corr.csv
+data/original/schools/HowCoSchooldatabase.xls,Data,37,44,converted,data/modernized/schools/HowCoSchooldatabase_Data.csv
+data/original/schools/HowCoSchooldatabase.xls,Dissimilarity,11,4,converted,data/modernized/schools/HowCoSchooldatabase_Dissimilarity.csv
+data/original/schools/HowCoSchooldatabase.xls,Sheet3,0,0,empty,
