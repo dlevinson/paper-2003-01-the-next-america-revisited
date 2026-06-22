@@ -1,5 +1,9 @@
 # The Next America Revisited
 
+## Contribution
+
+This paper evaluates Columbia, Maryland, against the ambitious physical and social goals established for the planned community in 1967. By comparing the plan with more than three decades of development, it shows how urban design and social planning reinforced—and sometimes fell short of—the founders' vision of a more inclusive, complete city.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2003-01`
